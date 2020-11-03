@@ -7,26 +7,40 @@ I am enthusiastic about innovation as an enabler to social sustainability & econ
 
 ## EDUCATION
 1. Data Science
+
    HyperionDev – 2020
+
    Core modules:
-    •	Python for Data Science (Pandas, Numpy, Sckit, Matplot lib)
-    •	Data Analytics & Visualisation (EDA) (Python, Tableau, SQL)
-    •	Machine Learning & AI (Keras & TensorFlow)
+   
+   •	Python for Data Science (Pandas, Numpy, Sckit, Matplot lib)
+   
+   •	Data Analytics & Visualisation (EDA) (Python, Tableau, SQL)
+   
+   •	Machine Learning & AI (Keras & TensorFlow)
 
 
  2. Master Program – Artificial Intelligence Engineer 
+   
     Simplilearn & IBM – 2019
+    
     Languages for AI, ML & DL:
+    
     •	Python, Pandas, Numpy, Sckit, Matplot lib
+    
     •	Keras, TensorFlow
 
 
 3. Masters in Innovation Studies (MMIS)
-  University of the Witwatersrand – 2018
-  Core modules:
-  •	Strategic Management of Innovation
-  •	Science & Technology Innovation Sustainability and Society
-  •	Modules: Finance & Statistics
+   
+   University of the Witwatersrand – 2018
+   
+   Core modules:
+   
+   •	Strategic Management of Innovation
+   
+   •	Science & Technology Innovation Sustainability and Society
+   
+   •	Modules: Finance & Statistics
 
 
 ## SKILLS
