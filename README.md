@@ -19,6 +19,7 @@ I am enthusiastic about innovation as an enabler to social sustainability & econ
    •	Machine Learning & AI (Keras & TensorFlow)
 
 
+
  2. Master Program – Artificial Intelligence Engineer 
    
     Simplilearn & IBM – 2019
@@ -28,6 +29,7 @@ I am enthusiastic about innovation as an enabler to social sustainability & econ
     •	Python, Pandas, Numpy, Sckit, Matplot lib
     
     •	Keras, TensorFlow
+
 
 
 3. Masters in Innovation Studies (MMIS)
