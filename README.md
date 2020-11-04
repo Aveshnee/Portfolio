@@ -1,5 +1,3 @@
-## PORTFOLIO
-
 ## AVESHNEE IYER RESUME
 
 I am enthusiastic about innovation as an enabler to social sustainability & economic growth in South Africa. I have studied my masters in innovation, AI engineering and data science with machine learning using python. Worked across the value chain for many years in various roles and understand different domains and ecosystems.
