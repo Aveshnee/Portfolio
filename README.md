@@ -7,7 +7,9 @@ Engaged and worked daily with customers and vendors, development teams in buildi
 Excited to be adding machine learning with python and data EDA and visualisation to my proposition building while conducting Proof of concept's.
 
 linkedin.com/in/aveshnee-iyer-2a074352
+
 https://www.kaggle.com/aveshneeiyer
+
 https://github.com/Aveshnee
 
 ## EDUCATION
