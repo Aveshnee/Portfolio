@@ -57,3 +57,7 @@ https://github.com/Aveshnee/MNIST-Classification
 
 https://github.com/Aveshnee/US-Arrests-KMeans-Agglomerative-Dendrograms-
 
+https://github.com/Aveshnee/Capstone-III-Movielens-EDA-Visualisation
+
+https://github.com/Aveshnee/Automobile-EDA-Visualisations
+
