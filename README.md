@@ -55,3 +55,7 @@ https://github.com/Aveshnee
 
 ## PROJECTS
 
+https://github.com/Aveshnee/MNIST-Classification
+
+https://github.com/Aveshnee/US-Arrests-KMeans-Agglomerative-Dendrograms-
+
