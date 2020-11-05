@@ -63,3 +63,5 @@ https://github.com/Aveshnee/Capstone-III-Movielens-EDA-Visualisation
 
 https://github.com/Aveshnee/Automobile-EDA-Visualisations
 
+https://github.com/Aveshnee/IMDB-Sentiment-Analysis-RNN/blob/main/IMDB_Sentiment_Analysis_RNN.ipynb
+
