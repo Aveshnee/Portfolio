@@ -33,6 +33,16 @@ https://github.com/Aveshnee
    •	Science & Technology Innovation Sustainability and Society
    •	Modules: Finance & Statistics
 
+4. MAP 
+   University of Witswaterstrand - 2008
+   
+5. Postgrad in Education
+   University of Durban-Westville - 1995
+
+6. Bachelor of Commerce (BCom)
+   University of Durban-Westville - 1994
+   
+
 ## SKILLS
 •	Strategy Development & Execution
 •	Requirement Identification & Implementation
