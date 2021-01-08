@@ -13,34 +13,34 @@ https://www.kaggle.com/aveshneeiyer
 https://github.com/Aveshnee
 
 ## EDUCATION
-1. Data Science
-   HyperionDev – 2020
+1. Data Science.
+   HyperionDev – 2020.
    Core modules:
    •	Python for Data Science (Pandas, Numpy, Sckit, Matplot lib)
    •	Data Analytics & Visualisation (EDA) (Python, Tableau, SQL)
    •	Machine Learning & AI (Keras & TensorFlow)
 
-2. Master Program – Artificial Intelligence Engineer 
-    Simplilearn & IBM – 2019
+2. Master Program – Artificial Intelligence Engineer. 
+    Simplilearn & IBM – 2019.
     Languages for AI, ML & DL:
     •	Python, Pandas, Numpy, Sckit, Matplot lib
     •	Keras, TensorFlow
 
-3. Masters in Innovation Studies (MMIS)
-   University of the Witwatersrand – 2018
+3. Masters in Innovation Studies (MMIS).
+   University of the Witwatersrand – 2018.
    Core modules:
    •	Strategic Management of Innovation
    •	Science & Technology Innovation Sustainability and Society
    •	Modules: Finance & Statistics
 
-4. MAP 
-   University of Witswaterstrand - 2008
+4. MAP. 
+   University of Witswaterstrand - 2008.
    
-5. Postgrad in Education
-   University of Durban-Westville - 1995
+5. Postgrad in Education.
+   University of Durban-Westville - 1995.
 
-6. Bachelor of Commerce (BCom)
-   University of Durban-Westville - 1994
+6. Bachelor of Commerce (BCom).
+   University of Durban-Westville - 1994.
    
 
 ## SKILLS
