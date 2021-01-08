@@ -27,7 +27,7 @@ https://github.com/Aveshnee
     •	Keras, TensorFlow
 
 3. Masters in Innovation Studies (MMIS).
-   University of the Witwatersrand – 2018.
+   University of the Witwatersrand – 2017/8.
    Core modules:
    •	Strategic Management of Innovation
    •	Science & Technology Innovation Sustainability and Society
