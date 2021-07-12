@@ -9,7 +9,6 @@ Excited to be adding machine learning with python and data EDA and visualisation
 https://www.aveshneeiyer.com
 
 linkedin.com/in/aveshnee-iyer-2a074352
-
   
 
 ## SKILLS
