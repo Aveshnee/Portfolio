@@ -6,72 +6,20 @@ Engaged and worked daily with customers and vendors, development teams in buildi
 
 Excited to be adding machine learning with python and data EDA and visualisation to my proposition building while conducting Proof of concept's.
 
+https://www.aveshneeiyer.com
+
 linkedin.com/in/aveshnee-iyer-2a074352
 
-https://www.kaggle.com/aveshneeiyer
-
-https://github.com/Aveshnee
-
-## EDUCATION
-1. Data Science.
-   HyperionDev – 2020.
-   Core modules:
-   •	Python for Data Science (Pandas, Numpy, Sckit, Matplot lib)
-   •	Data Analytics & Visualisation (EDA) (Python, Tableau, SQL)
-   •	Machine Learning & AI (Keras & TensorFlow)
-
-2. Master Program – Artificial Intelligence Engineer. 
-    Simplilearn & IBM – 2019.
-    Languages for AI, ML & DL:
-    •	Python, Pandas, Numpy, Sckit, Matplot lib
-    •	Keras, TensorFlow
-
-3. Masters in Innovation Studies (MMIS).
-   University of the Witwatersrand – 2017/8.
-   Core modules:
-   •	Strategic Management of Innovation
-   •	Science & Technology Innovation Sustainability and Society
-   •	Modules: Finance & Statistics
-
-4. MAP. 
-   University of Witswaterstrand - 2008.
-   
-5. Postgrad in Education.
-   University of Durban-Westville - 1995.
-
-6. Bachelor of Commerce (BCom).
-   University of Durban-Westville - 1994.
-   
+  
 
 ## SKILLS
 •	Strategy Development & Execution
-•	Requirement Identification & Implementation
-•	Strategic Innovation & Planning
 •	Change Management
-•	Proposition Building
-•	Product Management & Development 
+•	Product Management & Product Development 
 •	Business & Technical Roadmaps
 •	Data Science & Visualization 
 •	Machine Learning
 •	Full Project Lifecycle Management
-•	Program Management & Development  
-•	Business & Data Analysis 
-•	Stakeholder Engagement
-•	Relationship Building & Maintenance 
-•	Commercial Segment Management
+•	Project and Program
 •	Develop Customer Value Propositions
-•	Technology Showcase Framework/ Platform Development
-•	Portfolio Evaluation
-
-## PROJECTS
-
-https://github.com/Aveshnee/MNIST-Classification
-
-https://github.com/Aveshnee/US-Arrests-KMeans-Agglomerative-Dendrograms-
-
-https://github.com/Aveshnee/Capstone-III-Movielens-EDA-Visualisation
-
-https://github.com/Aveshnee/Automobile-EDA-Visualisations
-
-https://github.com/Aveshnee/IMDB-Sentiment-Analysis-RNN/blob/main/IMDB_Sentiment_Analysis_RNN.ipynb
-
+•	Strategic Innovation & Planning
